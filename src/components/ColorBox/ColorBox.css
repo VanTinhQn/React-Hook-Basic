@@ -1,0 +1,9 @@
+.color-box{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border-radius: 20px;
+    transition: all 0.2s ease-in-out;
+    margin: 20px;
+    cursor: pointer;
+}
